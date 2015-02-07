@@ -1,5 +1,5 @@
 <craft name="spiral">
-	<parameter name="numberOfTurns" type="int" default="3"/>
+	<parameter name="numberOfTurns" type="float" default="3"/>
 	<script type="text/openjscad">
 	function main(params)
 	{
