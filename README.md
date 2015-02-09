@@ -1,12 +1,14 @@
 # craft-spiral
 
-#Install
+# Install
 `$npm install craft-spiral`
 
-#Parameters
-`numberOfTurns - deetermines how many turns the spiral will make`
+# Parameters
+```sh
+numberOfTurns - deetermines how many turns the spiral will make
+```
 
-#Example
+# Example
 ```html
 <craft>
 	<craft name="spiral" module="craft-spiral"/>
