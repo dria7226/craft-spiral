@@ -7,8 +7,6 @@
 	    var no_of_turns = params.numberOfTurns || 3;
 	    if(no_of_turns < 0) no_of_turns = 3;
 	    
-	    
-	    
 	    //--------------------------
 	    
 	    var sqrt3 = Math.sqrt(3) / 2;
